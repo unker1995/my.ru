@@ -17,6 +17,7 @@
 	<div class="content">
 		<div class="hed">Избенко Дмитрий Викторович<a href="/admin">Главная</a><a href="/admin/logout.php">Выйти</a></div>
 	</div>
+	
 	<table style="border: 1px solid black">
 		<tr>
 			<th style="border: 1px solid black">id</th>
